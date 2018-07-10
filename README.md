@@ -1,6 +1,6 @@
+# 一个使用pytorch的完整例子
 ---
  fashion mnist classification-[pytorch implementation]
- 一个使用pytorch的完整例子
 ---
 ### 1. Details of file fold:
 - fashion_mnist/

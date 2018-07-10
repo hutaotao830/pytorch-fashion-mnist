@@ -82,3 +82,6 @@ Test Loss: 0.004064, Acc: 0.913400
 ### 4. Dataset:
 We use the following dataset for our example:
 [link](https://github.com/zalandoresearch/fashion-mnist).
+
+参照blog：
+[link](https://www.cnblogs.com/denny402/p/7520063.html).
